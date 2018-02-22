@@ -1,2 +1,2 @@
-# learninggit
+# LearningGit
 just a learning repository
